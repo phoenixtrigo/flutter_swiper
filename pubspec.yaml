@@ -12,7 +12,7 @@ dependencies:
   transformer_page_view: 
     git: 
       url: git://github.com/Zazo032/transformer_page_view.git
-      ref: patch_1
+      ref: patch-1
   flutter_page_indicator: ^0.0.3
 
 environment:
